@@ -1,5 +1,7 @@
 ## These two functions calculate the inverse of a matrix an cache it for later use. If the inverse has
 ## already been calculated, the function does no calculation but simply retrieves the cached value. 
+## Honor Code: This code is heavily based on the example in the assignment description. Bill Hilton's post
+## on the discussion forums was also helpful to understand how the code worked. 
 
 ## makeCacheMatrix creates a matrix object that will later be used by cacheSolve. It accepts as argument 
 ## a matrix, which we can do all sort of this to. m is a dummy variable that is set to NULL every time
